@@ -2,7 +2,7 @@
 I'm a coding enthusiast who's still trying to figure out if coding is actually my thing or if I just like the idea of being a tech-savvy wizard. I mean, let's be real, typing away at a computer screen for hours on end isn't exactly the glamorous life I thought it would be. But there's something oddly satisfying about getting code to work after countless hours of troubleshooting, and I'm not quite sure if that makes me a genius or a masochist. Either way, I'm in too deep now to turn back.
 
 ## What I do
-Well, let's just say that I'm a 15-year-old who thinks he's the next Bill Gates, but in reality, I'm just trying to impress my friends with the "Active Developer" badge on Discord. But hey, who needs actual talent when you have the power of Google and Stack Overflow at your fingertips?
+Well, let's just say that I'm a 16-year-old who thinks he's the next Bill Gates, but in reality, I'm just trying to impress my friends with the "Active Developer" badge on Discord. But hey, who needs actual talent when you have the power of Google and Stack Overflow at your fingertips?
 
 ## My Skills
 Oh, you want to know what I do best? Buckle up, because this is going to be quite the list.   
