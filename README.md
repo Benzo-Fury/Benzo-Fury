@@ -15,7 +15,7 @@ Oh, you want to know what I do best? Buckle up, because this is going to be quit
 • Impressive Error Generation (I can create errors so unique and advanced that even google has never seen them).
 
 ## Contact Me
-Hold up there, partner! You think you're gonna get my snap just like that? Sorry, but you gotta wine and dine me first. And by wine and dine, I mean offer me some killer coding tips or help me build a sweet Discord bot. Now we're talking! My Discord username is Nͥeͣoͫʸᵒᵘʳ ˢᶦˢᵗᵉʳ#3468, so hit me up if you're ready to get your coding game on.
+Hold up there, partner! You think you're gonna get my snap just like that? Sorry, but you gotta wine and dine me first. And by wine and dine, I mean offer me some killer coding tips or help me build a sweet Discord bot. Now we're talking! My Discord username is Nͥeͣoͫʸᵒᵘʳ ᵃᵘⁿᵗʸ#3468, so hit me up if you're ready to get your coding game on.
 
 ## Conclusion
 While I may not be the most skilled or experienced coder out there (yet), I make up for it in pure enthusiasm and determination. Sure, I may have to Google every other line of code, but that's just part of the fun, right? Who knows, maybe one day I'll be able to code without the crutch of Google (but let's be real, probably not).
