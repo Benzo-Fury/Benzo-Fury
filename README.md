@@ -20,4 +20,4 @@ Hold up there, partner! You think you're gonna get my snap just like that? Sorry
 ## Conclusion
 While I may not be the most skilled or experienced coder out there (yet), I make up for it in pure enthusiasm and determination. Sure, I may have to Google every other line of code, but that's just part of the fun, right? Who knows, maybe one day I'll be able to code without the crutch of Google (but let's be real, probably not).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benzo-Fury&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benzo-Fury&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benzo-Fury&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
