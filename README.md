@@ -1,5 +1,14 @@
-# Hello, I'm Neo :wave: <a href="https://discord.gg/sSVDuawYpx" target="_blank" rel="noopener noreferrer"><img align="right" alt="Discord Link" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/dark/discord.svg"></a><a href="https://www.linkedin.com/in/neo-haggard-515750388/" target="_blank" rel="noopener noreferrer"><img align="right" alt="LinkedIn Link" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/dark/linkedin.svg"></a>
-
+<h1>
+  Hello, I'm Neo 👋
+  <a href="https://discord.gg/sSVDuawYpx" target="_blank" rel="noopener noreferrer">
+    <img align="right" alt="Discord Link"
+         src="https://github-profile-cdn.neohaggard07.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCLorant%2Freadme-social-icons%2F097d0b23dcc0d22ba7710f6c113fafd321624a79%2Flarge%2Fdark%2Fdiscord.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/neo-haggard-515750388/" target="_blank" rel="noopener noreferrer">
+    <img align="right" alt="LinkedIn Link"
+         src="https://github-profile-cdn.neohaggard07.workers.dev/?url=https%3A%2F%2Fraw.githubusercontent.com%2FCLorant%2Freadme-social-icons%2F097d0b23dcc0d22ba7710f6c113fafd321624a79%2Flarge%2Fdark%2Flinkedin.svg">
+  </a>
+</h1>
 
 <img src="https://raw.githubusercontent.com/Benzo-Fury/Benzo-Fury/main/assets/banner.png" alt="banner that says Neo Haggard - software engineer and entrepreneur alongside a cartoon illustration of Neo">
 
