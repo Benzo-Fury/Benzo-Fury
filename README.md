@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Benzo-Fury/Benzo-Fury/main/assets/banner.png" alt="banner that says Neo Haggard - software engineer and entrepreneur alongside a cartoon illustration of Neo">
 
-**17 y/o founder and software engineer building clean, thoughtful tools.**
+**18 y/o founder and software engineer building clean, thoughtful tools.**
 - :round_pushpin: Based in **Greater Brisbane, Australia** - I design and ship from the **southern hemisphere** :earth_asia:.
 - :mortar_board: Self-taught in **backend engineering, data modeling, and security**.
 - :mag: Curious about **cybersecurity & forensics**, especially low-level systems and how things really work.
