@@ -10,8 +10,6 @@
 ## Fact's About Me :bulb: <img width="200" align="right" alt="image of Neo loving the Typescript logo" src="https://github.com/user-attachments/assets/555c181e-16e0-4859-bca1-46dc29ad067a"/>
 - 💻 I started programming in **JavaScript (Node.js)** when I was 12
 - 🧠 Self taught and fluent in **Python, Typescript, Rust, and C++**.
-- 🤖 Hosted a **Discord bot** that served **5000+ users**.
-- 🎓 I don't want to go to uni and I've already made things that CS majors cannot.
 
 <br/>
 
